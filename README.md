@@ -1,6 +1,6 @@
-- 👋 Halo.
+- 👋 Halo! Hei! Hej!
 - 👀 I am currently handling business process development
-- 🌱 I eager to learn more about Data Manipulation, Data Preparation, Data Engineering, Business Analytics, and Data Analytics 
+- 🌱 I'm learning Python to build software, and I'm also using it to explore things like data science, data analysis, and business insights. I want to understand how to work with data, make it useful, and find important information from it. Ultimately, my big goal is to become a recognized software developer.
 
 - 📫 Reach me : https://www.linkedin.com/in/geri-gema-putra-tarigan-067a3a161/
 
